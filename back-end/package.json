@@ -1,0 +1,16 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "Semana 1 - Desafio Final Eldorado Tech Training (2ª Edição).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Josué Lustosa",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.3.3"
+  }
+}
