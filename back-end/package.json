@@ -1,7 +1,7 @@
 {
   "name": "back-end",
   "version": "1.0.0",
-  "description": "Semana 1 - Desafio Final Eldorado Tech Training (2ª Edição).",
+  "description": "Projeto Final Eldorado Tech Training (2ª Edição).",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
@@ -11,6 +11,8 @@
   "author": "Josué Lustosa",
   "license": "ISC",
   "dependencies": {
-    "mysql2": "^2.3.3"
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15"
   }
 }
