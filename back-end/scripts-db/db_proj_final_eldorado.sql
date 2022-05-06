@@ -18,4 +18,8 @@ CREATE TABLE device (
     dev_color VARCHAR(16),
     dev_partNumber INT,
     FOREIGN KEY (dev_category_id) REFERENCES category (cat_id)
+<<<<<<< HEAD
 );
+=======
+);
+>>>>>>> 9d3d1e8e70a66320f728d2d9b96539facb7e12f5
